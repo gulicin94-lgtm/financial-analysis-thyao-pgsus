@@ -1,6 +1,6 @@
 # ✈️ Financial Analysis — THYAO vs PGSUS
 
-A comparative analysis of Turkish Airlines (THYAO) and Pegasus Airlines (PGSUS) based on five years of financial statement data (`<first year>`–`<last year>`). The project compares profitability, liquidity and leverage using key financial ratios, with data preparation in Excel and analysis and visualization in Python.
+A comparative analysis of Turkish Airlines (THYAO) and Pegasus Airlines (PGSUS) based on five years of financial statement data . The project compares profitability, liquidity and leverage using key financial ratios, with data preparation in Excel and analysis and visualization in Python.
 
 ## 🔑 Key Findings
 
@@ -11,8 +11,6 @@ A comparative analysis of Turkish Airlines (THYAO) and Pegasus Airlines (PGSUS) 
 
 - **Similar return, very different risk.** In 2024 both companies reached a similar ROE (~18%), but PGSUS did so with a Debt/Equity ratio about 3.3x higher than THYAO (2.14 vs 0.64). PGSUS's return relies much more on leverage, which implies higher financial risk.
 - **Different recovery paths.** THYAO returned to profit in 2021, while PGSUS continued to report a net loss that year.
-- `<One sentence on revenue growth, e.g. which company grew faster and in which years>`
-- `<One sentence on liquidity (current ratio), e.g. which company had the weaker liquidity position and when>`
 
 ![ROE comparison between THYAO and PGSUS](images/roe_comparison.png)
 
